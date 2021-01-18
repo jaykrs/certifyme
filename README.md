@@ -19,3 +19,6 @@ Validate the standard claims
 Check the Client permissions (scopes)
 The RESTful Spring Boot API Overview
 The RESTful Spring Boot API that we are going to secure is a task list manager. The task list is kept globally, which means that all users will see and interact with the same list.
+
+detailed explanation is available on https://youtu.be/4veRFsH7MyI
+https://jaykrs.blogspot.com/p/spring-security-with-jwt.html
